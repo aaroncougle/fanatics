@@ -4,13 +4,7 @@ Internal exploration prototype for Fanatics Travel — cruises, resorts, and Fan
 
 ## Live preview
 
-After deployment, the site is available at:
-
-**https://aaroncougle.github.io/fanatics/**
-
-## Share with your manager
-
-Send them the live URL above — no GitHub account required.
+GitHub Pages is currently **disabled**. The site is not publicly accessible.
 
 ## Local development
 
@@ -21,14 +15,3 @@ npm run dev
 ```
 
 Open [http://localhost:5173/fanatics/](http://localhost:5173/fanatics/)
-
-## Deploy
-
-Pushes to `main` automatically build and deploy via GitHub Actions.
-
-To deploy manually: **Actions** → **Deploy to GitHub Pages** → **Run workflow**
-
-First-time setup on GitHub:
-
-1. **Settings** → **Pages** → **Build and deployment** → Source: **GitHub Actions**
-2. After the first successful workflow run, the live URL will appear under **Settings** → **Pages**
