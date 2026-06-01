@@ -6,17 +6,11 @@ Internal exploration prototype for Fanatics Travel — cruises, resorts, and Fan
 
 After deployment, the site is available at:
 
-**https://YOUR_GITHUB_USERNAME.github.io/fanatics/**
-
-Replace `YOUR_GITHUB_USERNAME` with your work GitHub username.
+**https://aaroncougle.github.io/fanatics/**
 
 ## Share with your manager
 
-1. Go to the repo on GitHub → **Settings** → **Collaborators**
-2. Add your manager's GitHub username
-3. Send them the live URL above
-
-The site is only visible to people with access to this private repo.
+Send them the live URL above — no GitHub account required.
 
 ## Local development
 
